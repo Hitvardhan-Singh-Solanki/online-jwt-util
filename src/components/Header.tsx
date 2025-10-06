@@ -24,7 +24,7 @@ export function Header() {
 
           <div className="flex items-center space-x-4">
             <a
-              href="https://github.com"
+              href="https://github.com/Hitvardhan-Singh-Solanki/online-jwt-util"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-gray-100 transition-colors"
